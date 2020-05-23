@@ -1,2 +1,0 @@
-# ComplexStateSpead
-Created with CodeSandbox
